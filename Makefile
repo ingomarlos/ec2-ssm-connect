@@ -11,4 +11,3 @@ build: clean
 upload: build
 	@echo "Uploading distributions using twine..."
 	@twine upload --verbose dist/*
-
