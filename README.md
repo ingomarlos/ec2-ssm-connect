@@ -12,7 +12,8 @@ pip install ec2-ssm-connect
 ```
 
 ## 🛠 Usage
-** The application reads the AWS CLI credentials from the environment variables. **
+
+The application reads the AWS CLI credentials from the environment variables.
 After installation, you can use the command:
 
 ``` bash
@@ -44,8 +45,6 @@ Enter the number of the EC2 instance you want to connect to: [HERE YOU ENTER THE
 ```
 
 
-
-
 ## 📦 Dependencies
 
 - **boto3**: For AWS SDK functionalities.
@@ -58,8 +57,3 @@ Enter the number of the EC2 instance you want to connect to: [HERE YOU ENTER THE
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-
-
-
-
