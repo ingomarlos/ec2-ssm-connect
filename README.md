@@ -12,7 +12,7 @@ pip install ec2-ssm-connect
 ```
 
 ## 🛠 Usage
-
+** The application reads the AWS CLI credentials from the environment variables. **
 After installation, you can use the command:
 
 ``` bash
